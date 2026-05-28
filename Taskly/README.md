@@ -1,8 +1,8 @@
-<!-- TASKLY - Aplikasi To-Do List -->
+TASKLY - Aplikasi To-Do List
 
 Aplikasi manajemen tugas yang membantu pengguna mengelola dan memprioritaskan tugas harian dengan fitur penanda urgensi, deadline, dan catatan.
 
-<!-- Fitur Utama -->
+Fitur Utama
 
 - Registrasi dan login akun
 - Tambah, edit, dan hapus tugas
@@ -15,10 +15,10 @@ Aplikasi manajemen tugas yang membantu pengguna mengelola dan memprioritaskan tu
 - Halaman profile (ganti nama, ganti password)
 - Data tugas tersimpan per akun pengguna
 
-<!-- Arsitektur -->
+Arsitektur
 
 
-<!-- Setup Database -->
+Setup Database
 
 Buka MySQL
 
@@ -51,7 +51,7 @@ CREATE TABLE tasks (
   FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
 );
 
-<!-- Setup Backend -->
+Setup Backend
 
 1. Masuk folder backend
 2. cd backend
@@ -69,18 +69,18 @@ CLIENT_URL=http://localhost:5173
 
 5.npm run dev (Jalankan backend)
 
-Backend berjalan di `http://localhost:3000`
+Backend berjalan di `http://localhost:3000
 
-<!-- Setup Frontend -->
+Setup Frontend
 
 1. Buka terminal baru, masuk ke folder frontend
 2. cd frontend
 3. npm install (buat install node_modules)
 4. npm run dev
 
-Frontend berjalan di `http://localhost:5173`
+Frontend berjalan di `http://localhost:5173
 
-<!-- API Endpoints -->
+API Endpoints
 
 Method --- Endpoint --------------- Keterangan
 POST      /api/auth/register       Registrasi akun baru
