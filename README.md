@@ -6,16 +6,17 @@ Aplikasi manajemen tugas yang membantu pengguna mengelola dan memprioritaskan tu
 
 Fitur Utama
 
-Registrasi dan login akun
-Tambah, edit, dan hapus tugas
-Penanda tugas mendesak dan deadline
-Filter tugas (Terlambat, Sangat Mendesak, Mendesak, Santai)
-Pencarian tugas
-Dark dan Light mode
-Bisa pakai bahasa Indonesia dan Inggris
-Pengaturan format tanggal dan waktu yang dapat disesuaikan
-Halaman profile (ganti nama, ganti password)
-Data tugas tersimpan per akun pengguna
+1. Registrasi dan login akun
+2. Tambah, edit, dan hapus tugas
+3. Penanda tugas mendesak dan deadline
+4. Filter tugas (Terlambat, Sangat Mendesak, Mendesak, Santai)
+5. Pencarian tugas
+6. Dark dan Light mode
+7. Bisa pakai bahasa Indonesia dan Inggris
+8. Pengaturan format tanggal dan waktu yang dapat disesuaikan
+9. Halaman profile (ganti nama, ganti password)
+10. Data tugas tersimpan per akun pengguna
+
 Arsitektur
 
 Setup Database
