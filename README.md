@@ -96,3 +96,6 @@ Catatan
 
 1. Semua endpoint /api/tasks dan /api/profile membutuhkan token JWT
 2. File .env tidak disertakan dalam repository, gunakan .env.example sebagai panduan
+
+-- Dokumentasi --
+1. https://drive.google.com/drive/folders/1vBEIlNHh8R4xSF8b2XW_-KDmAU42K7-k
