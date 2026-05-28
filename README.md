@@ -52,7 +52,16 @@ Frontend berjalan di `http://localhost:5173
 
 API Endpoints
 
-Method --- Endpoint --------------- Keterangan POST /api/auth/register Registrasi akun baru POST /api/auth/login Login akun GET /api/tasks Ambil semua tugas milik user POST /api/tasks Buat tugas baru PUT /api/tasks/:id Update tugas DELETE /api/tasks/:id Hapus tugas GET /api/profile Ambil data profile PUT /api/profile Update nama PUT /api/profile/password Ganti password
+Method --- Endpoint --------------- Keterangan 
+POST       /api/auth/register       Registrasi akun baru 
+POST       /api/auth/login          Login akun 
+GET        /api/tasks               Ambil semua tugas milik user 
+POST       /api/tasks               Buat tugas baru 
+PUT        /api/tasks/:id           Update tugas 
+DELETE     /api/tasks/:id           Hapus tugas 
+GET        /api/profile             Ambil data profile 
+PUT        /api/profile             Update nama 
+PUT        /api/profile/password    Ganti password
 
 Semua endpoint /api/tasks dan /api/profile membutuhkan token JWT
 File .env tidak disertakan dalam repository, gunakan .env.example sebagai panduan
