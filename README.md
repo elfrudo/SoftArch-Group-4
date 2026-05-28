@@ -55,8 +55,8 @@ Setup Backend
 
 1. Masuk folder backend
 2. cd backend
-npm install (buat install node_modules karena nanti belom ada, dan untuk menginstall semua dependencies yang ada di package.json ke folder node_modules)
-4.Buat file .env dengan format berdasarkan .env.example
+3. npm install (buat install node_modules karena nanti belom ada, dan untuk menginstall semua dependencies yang ada di package.json ke folder node_modules)
+4. Buat file .env dengan format berdasarkan .env.example
 
 - DB_HOST=localhost
 - DB_USER=root
@@ -69,7 +69,7 @@ npm install (buat install node_modules karena nanti belom ada, dan untuk mengins
 
 5.npm run dev (Jalankan backend)
 
-Backend berjalan di `http://localhost:3000
+Backend berjalan di http://localhost:3000
 
 Setup Frontend
 
@@ -77,7 +77,7 @@ Setup Frontend
 2. cd frontend
 3. npm install (buat install node_modules)
 4. npm run dev
-5. Frontend berjalan di `http://localhost:5173
+5. Frontend berjalan di http://localhost:5173
 
 API Endpoints
 
