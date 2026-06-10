@@ -1,5 +1,12 @@
 # Software Architecture - Group-4
 
+Anggota : 
+1. Elfrudo Marcus Simatupang - 2802469583
+2. Muhammad Diaz Marenda - 2802535761
+3. Muhammad Nazlan Aulia Yusuf - 2802567605
+4. Nandana Fawaz Al 'Aziz - 2802470635
+5. Raflysyach Kurniawan - 2802581244
+
 PLanIt - Aplikasi Pemesanan Venue & Event Organizer
 
 PlanIt adalah platform booking venue dan event organizer yang memudahkan pengguna mencari, membandingkan, dan memesan venue serta EO untuk berbagai acara secara aman dalam satu platform.
