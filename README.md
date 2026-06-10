@@ -1,4 +1,4 @@
-# SoftArch-Group-4
+# Software Architecture - Group-4
 
 PLanIt - Aplikasi Pemesanan Venue & Event Organizer
 
