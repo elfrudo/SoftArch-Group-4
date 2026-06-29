@@ -7,7 +7,7 @@ Anggota :
 4. Nandana Fawaz Al 'Aziz - 2802470635
 5. Raflysyach Kurniawan - 2802581244
 
-PLanIt - Aplikasi Pemesanan Venue & Event Organizer
+PlanIt - Aplikasi Pemesanan Venue & Event Organizer
 
 PlanIt adalah platform booking venue dan event organizer yang memudahkan pengguna mencari, membandingkan, dan memesan venue serta EO untuk berbagai acara secara aman dalam satu platform.
 
